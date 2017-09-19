@@ -1,4 +1,6 @@
-// Sorting_algorithms.cpp : Defines the entry point for the console application.
+// Sorting_algorithms.cpp
+// Author: Romit Godi
+// Ref: http://www.mycodeschool.com/work-outs
 //
 
 #include "stdafx.h"
